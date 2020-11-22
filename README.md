@@ -9,3 +9,5 @@ Identify if people are following social distancing with the help of a camera and
 - As of 25 April 2020, more than 2.86 million cases have been reported across 185 countries and territories, resulting in more than 201,000 deaths. More than 811,000 people have recovered.
 
 ## Flow Diagram
+The below diagram represents the overall architecture of Social Distancing Project.
+![](./images/flow.png)
