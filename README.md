@@ -11,3 +11,19 @@ Identify if people are following social distancing with the help of a camera and
 ## Flow Diagram
 The below diagram represents the overall architecture of Social Distancing Project.
 ![](./images/flow.png)
+
+## Pedestrian Detection and Tracking
+The below diagram represents pedestrian detection and tracking using YoloV3 architecture and SORT based tracking algorithm.
+![](./images/object_detection_tracking.png)
+
+## Crowd Detection
+The below figure represents crowd detection to maintain social distancing based on a fixed distance value.
+![](./images/crowd.png)
+
+## Violator Detection
+The below figure represents violation detection such that police can take direct action against these people. It will also ensure that the number of Covid cases are less.
+![](./images/violator.png)
+
+## Final Output
+The below figure represents the output of Social Distancing project.
+![](./images/social_distance.png)
